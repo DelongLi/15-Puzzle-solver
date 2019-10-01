@@ -1,0 +1,2 @@
+# 15-Puzzle-solver
+Based on project requirements, we implemented Iterative deepening A* algorithm and created pattern database as admissible heuristics to solve random generated solvable 15-Puzzles. We randomly generated 100 15-Puzzle instances, each instance we applied the program to solve it 10 times, each time we collected the running time and computed the average running time for each instance.
